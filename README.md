@@ -1,13 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Imtiaz</h1>
 <h3 align="center">Flutter developer by Day and Night.</h3>
-<p><a href="https://www.buymeacoffee.com/immi420"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="immi420" /></a></p>
+<p align="center><a href="https://www.buymeacoffee.com/immi420"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="immi420" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=immi420&label=Profile%20views&color=0e75b6&style=flat" alt="immi420" /> </p>
+<p align="center> <img src="https://komarev.com/ghpvc/?username=immi420&label=Profile%20views&color=0e75b6&style=flat" alt="immi420" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=immi420" alt="immi420" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/its_immi" target="blank"><img src="https://img.shields.io/twitter/follow/its_immi?logo=twitter&style=for-the-badge" alt="its_immi" /></a> </p>
+<p align="center"> <a href="https://twitter.com/its_immi" target="blank"><img src="https://img.shields.io/twitter/follow/its_immi?logo=twitter&style=for-the-badge" alt="its_immi" /></a> </p>
 
 - 🌱 I’m currently learning **Jetpack compose and Swift UI**
 
